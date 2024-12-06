@@ -4,6 +4,3 @@ Th repository contains mini projects which includes basic games and some useful 
 
 
 
-## About
-
-Feel free to add pull requests here for HacktoberFest
